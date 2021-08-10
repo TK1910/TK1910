@@ -9,7 +9,7 @@
  ## Skills :nerd_face:
 <div style="display: inline_block"><br>
  <img align="center" alt"tk1910-Flutter" height="30" width="40" src="https://user-images.githubusercontent.com/69170713/128801878-3019ac29-d98a-4c49-9209-b7c6e2c41677.png">
- <img align="center" alt="tk1910-Kotlin" height="28" width="35" src="https://user-images.githubusercontent.com/69170713/128801733-c9b795f8-1882-4816-ac66-e3b8b2c2d823.png">
+ <img align="center" alt="tk1910-Kotlin" height="28" width="30" src="https://user-images.githubusercontent.com/69170713/128801733-c9b795f8-1882-4816-ac66-e3b8b2c2d823.png">
  <img align="center" alt="tk1910-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="tk1910-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
  <img align="center" alt="tk1910-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
